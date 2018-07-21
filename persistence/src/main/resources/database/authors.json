@@ -1,0 +1,37 @@
+[
+  {
+    "authorID": 1,
+    "name": "Adam",
+    "surname": "Mickiewicz",
+    "birthPlace": "Poznań",
+    "deleted": false
+  },
+  {
+    "authorID": 2,
+    "name": "Henryk",
+    "surname": "Sienkiewicz",
+    "birthPlace": "Kraków",
+    "deleted": false
+  },
+  {
+    "authorID": 3,
+    "name": "Adam",
+    "surname": "Mickiewicz",
+    "birthPlace": "Poznań",
+    "deleted": false
+  },
+  {
+    "authorID": 4,
+    "name": "Henryk",
+    "surname": "Sienkiewicz",
+    "birthPlace": "Kraków",
+    "deleted": false
+  },
+  {
+    "authorID": 5,
+    "name": "Adam",
+    "surname": "Mickiewicz",
+    "birthPlace": "Poznań",
+    "deleted": false
+  }
+]
