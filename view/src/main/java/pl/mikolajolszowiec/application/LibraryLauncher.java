@@ -10,8 +10,10 @@ public class LibraryLauncher
         AuthorController authorController = new AuthorController();
         authorController.create("Henryk", "Sienkiewicz", "Kraków");
         authorController.create("Adam", "Mickiewicz", "Poznań");
-
         authorController.getAll().stream().forEach(System.out::println);
+
+
+
     }
 
 
